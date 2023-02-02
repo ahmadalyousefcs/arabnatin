@@ -1,0 +1,470 @@
+body{
+    background-image: url(../image/pexels-lukáš-dlutko-2440300\ \(1\).jpg);
+background-position: center;
+    background-size: cover;
+    
+}
+.FOOD
+{
+text-align: center;
+color:white;
+font-size: 24px;
+font-family: Arial, Helvetica, sans-serif;
+}
+.line
+{
+    width:270px;
+    height: 3px;
+    background-color:white;
+    margin: auto;
+    margin-top: -20px;
+}
+
+.perent
+{
+    overflow: auto;
+    margin-top: 160px;
+
+}
+.div1
+{
+    width:300px;
+    height: 300px;
+    border: 4px solid darkorchid;
+    border-radius: 48px;
+    text-align: center;
+    float: left;
+    margin-left: 104px;
+    margin-bottom: 104px;
+}
+.a1
+{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+}
+.p1
+{
+    color: white;
+}
+
+
+
+.div1:hover
+{
+     background-image: url(../image/mansaf.jpg);
+     background-size: cover; 
+    background-position: center;
+     width: 300px;
+    height: 300px;
+    /* border-radius: 50%; */
+    margin-left:104px;
+    
+
+
+}
+.div2
+{
+    width:300px;
+    height: 300px;
+    border: 4px solid darkorchid;
+    border-radius: 48px;
+    text-align: center;
+    float: left;
+    margin-left: 104px;
+}
+.a1
+{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+}
+.p1
+{
+    color:white;
+}
+
+
+
+.div2:hover
+{
+     background-image: url(../image/maftol.jpg);
+     background-size: cover; 
+    background-position: center;
+     width: 300px;
+    height: 300px;
+   
+    margin-left:104px;
+    
+
+
+}
+.div3
+{
+    width:300px;
+    height: 300px;
+    border: 4px solid darkorchid;
+    border-radius: 48px;
+    text-align: center;
+    float: left;
+    margin-left: 104px;
+    /* margin-bottom: 104px; */
+}
+.a1
+{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+}
+.p1
+{
+    color: white;
+}
+
+
+
+.div3:hover
+{
+     background-image: url(../image/maqloba_n.jpg);
+     background-size: cover; 
+    background-position: center;
+     width: 300px;
+    height: 300px;
+    margin-left:104px;
+    
+
+
+}
+.div4
+{
+    width:300px;
+    height: 300px;
+    border: 4px solid darkorchid;
+    border-radius: 48px;
+    text-align: center;
+    float: left;
+    margin-left: 104px;
+    /* margin-bottom: 104px; */
+}
+.a1
+{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+}
+.p1
+{
+    color: white;
+}
+
+
+
+.div4:hover
+{
+     background-image: url(../image/mtfiae.jpg);
+     background-size: cover; 
+    background-position: center;
+     width: 300px;
+    height: 300px;
+    
+    margin-left:104px;
+    
+
+
+}
+.div5
+{
+    width:300px;
+    height: 300px;
+    border: 4px solid darkorchid;
+    border-radius: 48px;
+    text-align: center;
+    float: left;
+    margin-left: 104px;
+    /* margin-bottom: 104px; */
+}
+.a1
+{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+}
+.p1
+{
+    color: white;
+}
+
+
+
+.div5:hover
+{
+     background-image: url(../image/sfiha\ eafauia_n.jpg);
+     background-size: cover; 
+    background-position: center;
+     width: 300px;
+    height: 300px;
+    
+    margin-left:104px;
+    
+
+
+}
+.div6
+{
+    width:300px;
+    height: 300px;
+    border: 4px solid darkorchid;
+    border-radius: 48px;
+    text-align: center;
+    float: left;
+    margin-left: 104px;
+    /* margin-bottom: 104px; */
+}
+.a1
+{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+}
+.p1
+{
+    color: white;
+}
+
+
+
+.div6:hover
+{
+     background-image: url(../image/musakhan-chicken-2.jpg);
+     background-size: cover; 
+    background-position: center;
+     width: 300px;
+    height: 300px;
+    
+    margin-left:104px;
+    
+
+
+}
+.div7
+{
+    width:300px;
+    height: 300px;
+    border: 4px solid darkorchid;
+    border-radius: 48px;
+    text-align: center;
+    float: left;
+    margin-left: 104px;
+    margin-bottom: 104px;
+}
+.a1
+{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+}
+.p1
+{
+    color: white;
+}
+
+
+
+.div7:hover
+{
+     background-image: url(../image/Molokhia-FP-min.jpg);
+     background-size: cover; 
+    background-position: center;
+     width: 300px;
+    height: 300px;
+    /* border-radius: 50%; */
+    margin-left:104px;
+    
+
+
+}
+.div8
+{
+    width:300px;
+    height: 300px;
+    border: 4px solid darkorchid;
+    border-radius: 48px;
+    text-align: center;
+    float: left;
+    margin-left: 104px;
+    margin-bottom: 104px;
+}
+.a1
+{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+}
+.p1
+{
+    color: white;
+}
+
+
+
+.div8:hover
+{
+     background-image: url(../image/chickenOvenbotetos.jpg);
+     background-size: cover; 
+    background-position: center;
+     width: 300px;
+    height: 300px;
+    /* border-radius: 50%; */
+    margin-left:104px;
+    
+
+
+}
+.div9
+{
+    width:300px;
+    height: 300px;
+    border: 4px solid darkorchid;
+    border-radius: 48px;
+    text-align: center;
+    float: left;
+    margin-left: 104px;
+    margin-bottom: 104px;
+}
+.a1
+{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+}
+.p1
+{
+    color: white;
+}
+
+
+
+.div9:hover
+{
+     background-image: url(../image/makmora.jpg);
+     background-size: cover; 
+    background-position: center;
+     width: 300px;
+    height: 300px;
+    /* border-radius: 50%; */
+    margin-left:104px;
+    
+
+
+}
+.div10
+{
+    width:300px;
+    height: 300px;
+    border: 4px solid darkorchid;
+    border-radius: 48px;
+    text-align: center;
+    float: left;
+    margin-left: 104px;
+    margin-bottom: 104px;
+}
+.a1
+{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+}
+.p1
+{
+    color: white;
+}
+
+
+
+.div10:hover
+{
+     background-image: url(../image/adan\ alshaib.jpg);
+     background-size: cover; 
+    background-position: center;
+     width: 300px;
+    height: 300px;
+    /* border-radius: 50%; */
+    margin-left:104px;
+    
+
+
+}
+.div11
+{
+    width:300px;
+    height: 300px;
+    border: 4px solid darkorchid;
+    border-radius: 48px;
+    text-align: center;
+    float: left;
+    margin-left: 104px;
+    margin-bottom: 104px;
+}
+.a1
+{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+}
+.p1
+{
+    color: white;
+}
+
+
+
+.div11:hover
+{
+     background-image: url(../image/mjadra.jpg);
+     background-size: cover; 
+    background-position: center;
+     width: 300px;
+    height: 300px;
+    /* border-radius: 50%; */
+    margin-left:104px;
+    
+
+
+}
+.div12
+{
+    width:300px;
+    height: 300px;
+    border: 4px solid darkorchid;
+    border-radius: 48px;
+    text-align: center;
+    float: left;
+    margin-left: 104px;
+    margin-bottom: 104px;
+}
+.a1
+{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+}
+.p1
+{
+    color: white;
+}
+
+
+
+.div12:hover
+{
+     background-image: url(../image/qdra.jpg);
+     background-size: cover; 
+    background-position: center;
+     width: 300px;
+    height: 300px;
+    /* border-radius: 50%; */
+    margin-left:104px;
+    
+
+
+}
